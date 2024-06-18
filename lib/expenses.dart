@@ -17,6 +17,7 @@ class _ExpensesState extends State<Expenses> {
         children: const [
           Text('The chart'),
           Text('Expenses list...'),
+          Text('First listing'),
         ],
       ),
     );
