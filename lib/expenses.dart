@@ -18,6 +18,7 @@ class _ExpensesState extends State<Expenses> {
           Text('The chart'),
           Text('Expenses list...'),
           Text('First listing'),
+          Text('mega columns here'),
         ],
       ),
     );
