@@ -24,7 +24,7 @@ class _ExpensesState extends State<Expenses> {
       category: Category.leisure,
     ),
   ];
-//  build method
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
