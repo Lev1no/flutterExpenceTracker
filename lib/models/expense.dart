@@ -2,7 +2,7 @@ import 'package:uuid/uuid.dart';
 
 const uuid = Uuid();
 
-enum Category { food, travel, leisure, essentials }
+enum Category { food, travel, leisure, essentials, work }
 
 class Expense {
   Expense({
